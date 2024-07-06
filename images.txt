@@ -4,4 +4,4 @@ xhofe/alist:latest
 #支持指定架构
 xiaoyaliu/alist
 dockurr/windows
-ez34/wm
+ez34/wm:136
